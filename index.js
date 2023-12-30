@@ -24,4 +24,4 @@ if (experienciaDoHeroi < 1000) {
 }
 
 // Saída
-console.log(`O Herói de nome ${nomeDoHeroi} está no nível de ${nivelDoHeroi}`);
+console.log(`O nosso Herói ${nomeDoHeroi} está no nível de ${nivelDoHeroi}`);
