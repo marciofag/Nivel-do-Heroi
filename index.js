@@ -1,5 +1,5 @@
 // Variáveis
-let nomeDoHeroi = "Batman"; // Você pode substituir pelo nome do seu herói
+let nomeDoHeroi = "Marcioman"; // Você pode substituir pelo nome do seu herói
 let experienciaDoHeroi = 7500; // Você pode substituir pela XP do seu herói
 
 // Estrutura de decisão
