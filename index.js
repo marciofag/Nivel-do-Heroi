@@ -20,7 +20,7 @@ if (experienciaDoHeroi < 1000) {
 } else if (experienciaDoHeroi <= 10000) {
   nivelDoHeroi = "Imortal";
 } else {
-  nivelDoHeroi = "Radiante";
+  nivelDoHeroi = "Radiante"; 
 }
 
 // Saída
